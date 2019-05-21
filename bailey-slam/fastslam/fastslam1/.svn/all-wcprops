@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/data/svn/bailey-slam/!svn/ver/1/trunk/fastslam/fastslam1
+END
+compute_weight.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/data/svn/bailey-slam/!svn/ver/1/trunk/fastslam/fastslam1/compute_weight.m
+END
+fastslam1_sim.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/data/svn/bailey-slam/!svn/ver/1/trunk/fastslam/fastslam1/fastslam1_sim.m
+END
+predict.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/data/svn/bailey-slam/!svn/ver/1/trunk/fastslam/fastslam1/predict.m
+END

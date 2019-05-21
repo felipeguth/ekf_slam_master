@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/data/svn/bailey-slam/!svn/ver/1/trunk/ekfslam_v2
+END
+observe_model.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/data/svn/bailey-slam/!svn/ver/1/trunk/ekfslam_v2/observe_model.m
+END
+add_control_noise.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/data/svn/bailey-slam/!svn/ver/1/trunk/ekfslam_v2/add_control_noise.m
+END
+example_linemap.mat
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/data/svn/bailey-slam/!svn/ver/1/trunk/ekfslam_v2/example_linemap.mat
+END
+ekfslam_v2.0-update_global.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/data/svn/bailey-slam/!svn/ver/1/trunk/ekfslam_v2/ekfslam_v2.0-update_global.m
+END
+frontend.fig
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/data/svn/bailey-slam/!svn/ver/1/trunk/ekfslam_v2/frontend.fig
+END
+predict.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/data/svn/bailey-slam/!svn/ver/1/trunk/ekfslam_v2/predict.m
+END
+line_plot_conversion.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/data/svn/bailey-slam/!svn/ver/1/trunk/ekfslam_v2/line_plot_conversion.m
+END
+ekfslam_sim.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/data/svn/bailey-slam/!svn/ver/1/trunk/ekfslam_v2/ekfslam_sim.m
+END
+example_densemap.mat
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/data/svn/bailey-slam/!svn/ver/1/trunk/ekfslam_v2/example_densemap.mat
+END
+vehicle_model.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/data/svn/bailey-slam/!svn/ver/1/trunk/ekfslam_v2/vehicle_model.m
+END
+transformtoglobal.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/data/svn/bailey-slam/!svn/ver/1/trunk/ekfslam_v2/transformtoglobal.m
+END
+plot_feature_loci.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/data/svn/bailey-slam/!svn/ver/1/trunk/ekfslam_v2/plot_feature_loci.m
+END
+KF_IEKF_update.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/data/svn/bailey-slam/!svn/ver/1/trunk/ekfslam_v2/KF_IEKF_update.m
+END
+add_observation_noise.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/data/svn/bailey-slam/!svn/ver/1/trunk/ekfslam_v2/add_observation_noise.m
+END
+augment.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/data/svn/bailey-slam/!svn/ver/1/trunk/ekfslam_v2/augment.m
+END
+pi_to_pi.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/data/svn/bailey-slam/!svn/ver/1/trunk/ekfslam_v2/pi_to_pi.m
+END
+KF_cholesky_update.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/data/svn/bailey-slam/!svn/ver/1/trunk/ekfslam_v2/KF_cholesky_update.m
+END
+data_associate.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/data/svn/bailey-slam/!svn/ver/1/trunk/ekfslam_v2/data_associate.m
+END
+sqrtm_2by2.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/data/svn/bailey-slam/!svn/ver/1/trunk/ekfslam_v2/sqrtm_2by2.m
+END
+configfile.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/data/svn/bailey-slam/!svn/ver/1/trunk/ekfslam_v2/configfile.m
+END
+augment_associate_known.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/data/svn/bailey-slam/!svn/ver/1/trunk/ekfslam_v2/augment_associate_known.m
+END
+KF_simple_update.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/data/svn/bailey-slam/!svn/ver/1/trunk/ekfslam_v2/KF_simple_update.m
+END
+compute_steering.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/data/svn/bailey-slam/!svn/ver/1/trunk/ekfslam_v2/compute_steering.m
+END
+get_observations.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/data/svn/bailey-slam/!svn/ver/1/trunk/ekfslam_v2/get_observations.m
+END
+frontend.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/data/svn/bailey-slam/!svn/ver/1/trunk/ekfslam_v2/frontend.m
+END
+data_associate_known.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/data/svn/bailey-slam/!svn/ver/1/trunk/ekfslam_v2/data_associate_known.m
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/data/svn/bailey-slam/!svn/ver/1/trunk/ekfslam_v2/readme.txt
+END
+update_iekf.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/data/svn/bailey-slam/!svn/ver/1/trunk/ekfslam_v2/update_iekf.m
+END
+update.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/data/svn/bailey-slam/!svn/ver/1/trunk/ekfslam_v2/update.m
+END
+observe_heading.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/data/svn/bailey-slam/!svn/ver/1/trunk/ekfslam_v2/observe_heading.m
+END

@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/data/svn/bailey-slam/!svn/ver/1/trunk/ukfslam
+END
+example_webmap.mat
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/data/svn/bailey-slam/!svn/ver/1/trunk/ukfslam/example_webmap.mat
+END
+compute_steering.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/data/svn/bailey-slam/!svn/ver/1/trunk/ukfslam/compute_steering.m
+END
+get_observations.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/data/svn/bailey-slam/!svn/ver/1/trunk/ukfslam/get_observations.m
+END
+data_associate_known.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/data/svn/bailey-slam/!svn/ver/1/trunk/ukfslam/data_associate_known.m
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/data/svn/bailey-slam/!svn/ver/1/trunk/ukfslam/readme.txt
+END
+update.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/data/svn/bailey-slam/!svn/ver/1/trunk/ukfslam/update.m
+END
+observe_heading.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/data/svn/bailey-slam/!svn/ver/1/trunk/ukfslam/observe_heading.m
+END
+add_control_noise.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/data/svn/bailey-slam/!svn/ver/1/trunk/ukfslam/add_control_noise.m
+END
+observe_model.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/data/svn/bailey-slam/!svn/ver/1/trunk/ukfslam/observe_model.m
+END
+predict.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/data/svn/bailey-slam/!svn/ver/1/trunk/ukfslam/predict.m
+END
+vehicle_model.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/data/svn/bailey-slam/!svn/ver/1/trunk/ukfslam/vehicle_model.m
+END
+add_observation_noise.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/data/svn/bailey-slam/!svn/ver/1/trunk/ukfslam/add_observation_noise.m
+END
+augment.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/data/svn/bailey-slam/!svn/ver/1/trunk/ukfslam/augment.m
+END
+sqrtm_2by2.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/data/svn/bailey-slam/!svn/ver/1/trunk/ukfslam/sqrtm_2by2.m
+END
+configfile.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/data/svn/bailey-slam/!svn/ver/1/trunk/ukfslam/configfile.m
+END
+example_smallmap.mat
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/data/svn/bailey-slam/!svn/ver/1/trunk/ukfslam/example_smallmap.mat
+END
+ukfslam_sim.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/data/svn/bailey-slam/!svn/ver/1/trunk/ukfslam/ukfslam_sim.m
+END

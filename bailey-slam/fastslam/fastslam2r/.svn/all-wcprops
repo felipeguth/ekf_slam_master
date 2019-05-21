@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/data/svn/bailey-slam/!svn/ver/1/trunk/fastslam/fastslam2r
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/data/svn/bailey-slam/!svn/ver/1/trunk/fastslam/fastslam2r/readme.txt
+END
+sample_proposal.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/data/svn/bailey-slam/!svn/ver/1/trunk/fastslam/fastslam2r/sample_proposal.m
+END
+observe_heading.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/data/svn/bailey-slam/!svn/ver/1/trunk/fastslam/fastslam2r/observe_heading.m
+END
+compute_weightr.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/data/svn/bailey-slam/!svn/ver/1/trunk/fastslam/fastslam2r/compute_weightr.m
+END
+fastslam2r_sim.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/data/svn/bailey-slam/!svn/ver/1/trunk/fastslam/fastslam2r/fastslam2r_sim.m
+END
+predict.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/data/svn/bailey-slam/!svn/ver/1/trunk/fastslam/fastslam2r/predict.m
+END
